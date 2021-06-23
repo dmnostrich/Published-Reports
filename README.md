@@ -1,3 +1,3 @@
 # Reports
 
-Fixed Bug Bounty Reports
+All Shared Reports are Fixed and Disclosed..
